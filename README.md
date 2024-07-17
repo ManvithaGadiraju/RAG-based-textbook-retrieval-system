@@ -27,5 +27,8 @@ This repository contains code for a Textbook Retrieval System that utilizes cont
 ### Prerequisites
 Make sure you have Python and Streamlit installed on your system.
 use command streamlit run app.py
+Install dependencies using pip:
 
+```bash
+pip install -r requirements.txt
 
