@@ -9,6 +9,11 @@ This repository contains code for a Textbook Retrieval System that utilizes cont
 - **Multi-document RAG:** Retrieves relevant sections from textbooks based on user queries.
 - **Question Answering:** Provides answers to user questions based on retrieved content.
 
+# Selected Textbooks
+- Textbook-IanGoodfellow_Yoshua Bengio_Aaron Courville ([Link to Goodfellow et al.](https://drive.google.com/file/d/1dkqroJqhtpBIJFlXJWrGkY9IzJJ31OHK/view?usp=drive_link ))
+- Textbook-TomMitchell ([Link to Tom Mitchell]((https://drive.google.com/file/d/1wV3FvSDRc4ub29BGXjYbZYK-n3_F0oJv/view?usp=drive_link )))
+- Textbook-StephenMarsland ([Link to Stephen Marsland]((https://drive.google.com/file/d/1bJESyreI17dyo6dszg_45Vbaax0Z34tO/view?usp=drive_link )))
+
 ## Setup Instructions
 
 ### Dependencies
@@ -20,3 +25,4 @@ Install dependencies using pip:
 
 ```bash
 pip install -r requirements.txt
+
